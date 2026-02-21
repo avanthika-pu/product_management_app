@@ -1,4 +1,4 @@
-# Product Management API
+# Product Management Application
 
 A robust Django REST Framework (DRF) application for managing products with automated asynchronous thumbnail generation using Celery and Redis, all containerized with Docker.
 
