@@ -26,7 +26,7 @@ To build and run the entire stack, ensure you have **Docker** and **Docker Compo
 
 1.  **Clone the repository**:
     ```bash
-    git clone 
+    git clone https://github.com/avanthika-pu/product_management_app.git
     cd product-management-api
     ```
 2.  **Build and Start**:
